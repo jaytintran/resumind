@@ -1,18 +1,27 @@
-# Welcome to React Router!
+## 💼 Resumind - AI-Powered Job Match Analyzer (Serverless + Free)
+Tired of sending out resumes into the void? No replies. No rejections. Just silence.
+It’s not that you're not qualified—your resume just isn’t saying it loud enough. Or worse... you're applying blindly, without knowing what the job actually wants.
+That ends now.
 
-A modern, production-ready template for building full-stack React applications using React Router.
+## 🚀 What is Resumind?
+Resumind is a serverless, AI-powered resume analyzer that gives instant, actionable insights on how well your resume matches any job posting—and how to fix it. Your own personal job search assistant, right in the browser.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/remix-run/react-router-templates/tree/main/default)
+## Key Features
 
-## Features
+- **🔍 Instant Resume-to-Job Match Analysis**: Upload any resume and job description and get real-time match scores and breakdowns using free AI APIs (GPT, Claude, Grok, etc.).
+- **🧠 Custom Feedback with AI**: Generate actionable feedback on how to improve your resume, based on what's actually in the job post.
+- **📄 Secure File Upload**: Handle resumes and job listings with secure file input, processed entirely on the client side.
+- **🧰 No Backend. No Hosting Costs**: Powered by Puter.js, this app runs fully serverless. Every user runs their own computation, storage, and AI API calls on their own virtual computer—not yours.
+- **📊 ATS (Applicant Tracking System)**: Find out how your resume performs against the same filtering systems used by real recruiters.
+- **📱 Fully Responsive**: Sleek UI built with Tailwind CSS v4 for blazing-fast responsive design.
 
-- 🚀 Server-side rendering
-- ⚡️ Hot Module Replacement (HMR)
-- 📦 Asset bundling and optimization
-- 🔄 Data loading and mutations
-- 🔒 TypeScript by default
-- 🎉 TailwindCSS for styling
-- 📖 [React Router docs](https://reactrouter.com/)
+## 🛠️ Tech Stack
+- ReactJS + React Router v7: Modern component-based UI + advanced routing
+- Tailwind CSS v4: Utility-first styling for rapid UI dev
+- TypeScript: Type-safe, readable, maintainable code
+- Zustand: Lightweight global state management made simple
+- Puter.js: Run code, store files, and use AI directly in-browser—no infra needed
+- Free AI Models: GPT (OpenAI), Claude (Anthropic), Grok (xAI) via user-side APIs
 
 ## Getting Started
 
